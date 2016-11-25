@@ -15,3 +15,9 @@ My primary machine is a desktop machine with a:
     Intel Corporation Cougar Point High Definition Audio Controller.
     Intel Corporation 82579V Gigabit Network Connection.
 ```
+
+To run type `bash reproduce.sh`. `bash gdb.sh` runs gdb.
+
+## License
+
+Available under the MIT/Expat license.
